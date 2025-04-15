@@ -1,11 +1,8 @@
 "use client";
-
-import { useState } from "react";
 import { motion } from "framer-motion";
 import type { NextPage } from "next";
 
 const Home: NextPage = () => {
-  const [time, setTime] = useState("");
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white flex flex-col items-center justify-start p-8">
