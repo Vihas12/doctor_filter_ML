@@ -17,7 +17,6 @@ This project is a Machine Learning-powered web application that allows users to 
 ## 🛠️ Tech Stack
 
 - **Machine Learning**: scikit-learn / TensorFlow / your choice
-- **Database**: MySQL / MongoDB / Firebase (mention what you used)
 - **Export**: `pandas`, `openpyxl`, or `csv` module
 - **Frontend**: HTML/CSS/JavaScript (if applicable)
 
@@ -43,7 +42,7 @@ This project is a Machine Learning-powered web application that allows users to 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/doctor-availability-ml.git
+git clone https://github.com/Vihas12/doctor-availability-ml.git
 cd doctor-availability-ml
 
 ---
